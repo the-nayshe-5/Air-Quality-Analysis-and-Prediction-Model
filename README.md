@@ -12,14 +12,16 @@ The COVID-19 pandemic has inadvertently provided a unique opportunity to reasses
 ## Methodology
 
 * Time series analysis was used to analyze the PM2.5 concentration data in India during the COVID-19 pandemic.
-* A machine learning model was developed using Python to predict PM2.5 concentrations based on historical data.
-* The model was trained and tested using a dataset of PM2.5 concentrations in India.
+* SARIMA and Holt-Winters machine learning models were developed using Python to predict PM2.5 concentrations based on historical data.
+* The Holt-Winters Model was concluded to be the better predictor as the SARIMA model failed to take into consideration the unexpected increase in PM2.5 concentrations.
 
 ## Key Findings
 
 * The analysis revealed a significant decrease in PM2.5 concentrations in India during the COVID-19 pandemic.
 * The machine learning model demonstrated the potential to predict PM2.5 concentrations with high accuracy.
 * The project highlights the importance of sustained efforts to reduce emissions and transition towards a more sustainable future.
+* The COVID-19 Lockdown impact on climate change and air quality can be expressed clearly based on the analysis in the project.
+* The upliftment of lockdown in 2022 can also be seen to have had an exponential impact on the PM2.5 concentration, indicating poor air quality and higher climate change.
 
 ## Machine Learning Model
 
