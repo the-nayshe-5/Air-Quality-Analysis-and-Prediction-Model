@@ -1,5 +1,5 @@
-# Air Quality Analysis and Prediction-Model
-# COVID-19's Impact on PM2.5 Concentrations and Climate Change: A Machine Learning Approach
+# Air Quality Analysis and Prediction Model
+## COVID-19's Impact on PM2.5 Concentrations and Climate Change: A Machine Learning Approach
 
 ## Overview
 
