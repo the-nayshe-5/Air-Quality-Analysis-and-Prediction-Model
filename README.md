@@ -33,16 +33,6 @@ The COVID-19 pandemic has inadvertently provided a unique opportunity to reasses
 * The integration of machine learning into climate change research and policy can enhance our ability to adapt to and mitigate the impacts of climate change.
 * The model can be improved by incorporating additional data sources and features to increase its accuracy and robustness.
 
-## Repository Structure
-
-* `df`: Contains the hourly dataset used for training and testing the machine learning model.
-* `df_daily`: Contains daily transformed values for the same dataset.
-* `df_month`: Contains monthly transformed values for the same dataset.
-* `sarima_future_model`: Contains the Python code for the SARIMA machine learning model for future predictions.
-* `forecast_model`: Contains the Python code for the Holt-Winters machine learning model for future predictions.
-* `df_forecasted`: Contains the given and SARIMA Model forecasted monthly PM2.5 values.
-* `df_holt_forecast`: Contains the given and Holt-Winters Model forecasted monthly PM2.5 values.
-
 ## References and Datasets
 
 Dataset Source Link : https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india
